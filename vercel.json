@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/Will-you-go-out-with-me/$1"
+    }
+  ]
+}
